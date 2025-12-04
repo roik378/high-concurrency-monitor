@@ -1,0 +1,3 @@
+playwright==1.40.0
+# 如果你的 config.py 或其他文件里还没删掉 requests，建议也加上，虽然 SMTP 不用它
+requests
